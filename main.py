@@ -1,4 +1,4 @@
-# This is fun cod. It's my first project so i hope you like it.
+# This is fun cod. It's my first project so i hope you like it. Enjoy yourself :)
 
 from PIL import Image
 
